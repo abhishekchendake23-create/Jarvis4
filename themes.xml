@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Abhynex" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#050912</item>
+        <item name="android:statusBarColor">#050912</item>
+        <item name="android:navigationBarColor">#050912</item>
+    </style>
+</resources>
